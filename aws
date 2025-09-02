@@ -1,0 +1,10 @@
+public class MethodExample {
+    // A static method that prints a message
+    static void myMethod() {
+        System.out.println("This message is from myMethod!");
+    }
+
+    public static void main(String[] args) {
+        myMethod(); // Call the myMethod
+    }
+}
